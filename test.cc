@@ -3,7 +3,6 @@
 #include<stdio.h>
 
 using namespace std;
-int main()
 {
 	add some thing!
 		add thi
