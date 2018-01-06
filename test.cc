@@ -5,6 +5,9 @@
 using namespace std;
 int main()
 {
+	add some thing!
+		add thi
+		add hello
 	while(true)
 	{
 		int a = 0;
